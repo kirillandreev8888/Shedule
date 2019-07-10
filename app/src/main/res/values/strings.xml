@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shedule2v3</string>
+    <string name="tab_text_1">Вторник</string>
+    <string name="tab_text_2">Среда</string>
+    <string name="tab_text_3">Четверг</string>
+    <string name="tab_text_4">Пятница</string>
+    <string name="tab_text_5">Суббота</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
